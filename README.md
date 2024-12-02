@@ -1,4 +1,5 @@
-<h1> First Topics </h1>
+<h1 display="inline"> First Topics </h1>
 <div>
-  <img src="https://skillicons.dev/icons?i=django,py">
+  <h3>Tecnolog to use in this project:</h3>
+  <img src="https://skillicons.dev/icons?i=django,py,js,bootstrap">
 </div>
