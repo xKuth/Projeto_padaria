@@ -1,4 +1,4 @@
 <h1> First Topics </h1>
 <div>
-  <img src="[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)">
+  <img src="https://skillicons.dev/icons?i=django,py">
 </div>
