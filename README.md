@@ -2,6 +2,7 @@
 <div>
   <h3>Tecnolog to use in this project:</h3>
   <img src="https://skillicons.dev/icons?i=django,py,js,bootstrap">
+  <br>
   <h1>ABOUT PROJECT</h1>
   <div>
     <markdown>
@@ -17,12 +18,16 @@
           </tr>
           <tr>
             <th>Status</th>
-            <td>
-              <a></a>
+            <td><a href="https://www.python.org"><img alt="Static Badge" src="https://img.shields.io/badge/Python-3.10 | 3.11 | 3.12-white"></a>
+            <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/implementation-psycopg2-blue"></a>
             </td>
           </tr>
         </tbody>
       </table>
     </markdown>
+    <p>project for companies of various sizes and for different customers, companies create products in an independent correlated database, so that customers can place orders for each order created, each customer         has a unique page for the companies with which they have placed the most orders.</p>
+    <h1>INSTALING</h1>
+    <p>Install this project add on the you path , and use easiest pip:</p>
+    <pre>pip install Projeto_padaria</pre>
   </div>
 </div>
