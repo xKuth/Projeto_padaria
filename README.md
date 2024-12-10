@@ -26,6 +26,8 @@
       </table>
     </markdown>
     <p>project for companies of various sizes and for different customers, companies create products in an independent correlated database, so that customers can place orders for each order created, each customer         has a unique page for the companies with which they have placed the most orders.</p>
+    <h1>SUPPORT THE PROJECT</h1>
+    <p>For support in this project please enter contact with me on github or create a fork on pushes</p>
     <h1>INSTALING</h1>
     <p>Install this project add on the you path , and use easiest pip:</p>
     <pre>pip install Projeto_padaria</pre>
